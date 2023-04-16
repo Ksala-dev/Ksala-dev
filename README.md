@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ksala-dev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vue.js framework
+- 🌱 I’m currently learning React.js framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
